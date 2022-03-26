@@ -32,6 +32,6 @@ The chart shows that the total fares by city type were highest in Urban cities. 
 
 ## Summary
 Based on the analysis, three business recommendations to the CEO for addressing any disparities among the city types are:
-* Given that Rural cities have the highest average fare per ride total and lowest number of drivers, it is most likely that Rural city drivers drive the furthest distances and have the least competition. Increasing drivers in Rural cities would improve affordability for riders by increasing competition. Drivers would also benefit from longer rides with generally higher fares.
+* Given that Rural cities have the highest average fare per ride total and lowest number of drivers, it is most likely that Rural city drivers drive the furthest distances and have the least competition. Increasing drivers in Rural cities would improve accessibility for riders by increasing competition. 
 * Deploy additional drivers in the Suburban cities in April when Suburban cities saw an uptick in total fares, but both Urban and Rural cities saw a decline in total fares.
-* Total drivers in Urban cities outnumber the total rides. Reducing density and restributing drivers into Suburban and Rural areas would help with decreasing the average fare per ride in those cities which would increase accessibilty and also help increase the average fare per driver in the Urban cities.
+* Total drivers in Urban cities outnumber the total rides. Reducing density and restributing drivers into Suburban and Rural areas would help with decreasing the average fare per ride in those cities which would increase affordability.
